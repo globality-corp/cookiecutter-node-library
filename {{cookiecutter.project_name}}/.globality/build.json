@@ -1,0 +1,8 @@
+{
+  "type": "node-service",
+  "version": "{{ cookiecutter.project_version }}",
+  "params": {
+    "name": "{{ cookiecutter.project_name }}",
+    "tier": "{{ cookiecutter.tier }}"
+  }
+}
